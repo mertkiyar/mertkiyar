@@ -1,20 +1,23 @@
-# Hi, I’m Mert and a Computer Engineering Student
+# Hi, I'm Mert!  
+I'm a Computer Engineering student.
 
 ### Focus
 Interested in backend development, database systems, and mobile applications.  
 I enjoy building real-world projects and learning new technologies.
   
-### I'm using Java and I have completed two projects using it:
+### Experience & Projects
+I have experience with **Java** and have completed two projects using it:
    - **Patient Appointment System** - Desktop app for Hospitals Appointment's ([Link](https://github.com/mertkiyar/Patient-Appointment-System))
    - **ClassQRoom** - Android app for classroom attendance management ([Link](https://github.com/mertkiyar/ClassQRoom))
   
-### Right now, I’m working on new projects using C and PostgreSQL:
+### Currently Working On
+I’m currently developing new projects using **C** and **PostgreSQL**:
   - **ChatApp** - Terminal-based C application with client-server logic ([Link](https://github.com/mertkiyar/ChatApp))
   - **Cargo Company Database** - Database design for cargo management.
 
 ### Roadmap
 - ClassQRoom database upgrade(Firebase -> PostgreSQL)
-- Level-based Unity game
+- Develop a Level-based Unity game
 - Build a Spring Boot REST API
   
 ### Languages/Environments I have experienced before:
