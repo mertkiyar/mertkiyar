@@ -6,19 +6,20 @@ Interested in backend development, database systems, and mobile applications.
 I enjoy building real-world projects and learning new technologies.
   
 ### Experience & Projects
-I have experience with **Java** and have completed two projects using it:
-   - **Patient Appointment System** - Desktop app for Hospitals Appointment's ([Link](https://github.com/mertkiyar/Patient-Appointment-System))
-   - **ClassQRoom** - Android app for classroom attendance management ([Link](https://github.com/mertkiyar/ClassQRoom))
+I have experience developing projects across different domains, mainly focusing on backend systems, database design, and mobile applications. My projects range from desktop and mobile applications to database-focused systems and network-based programs:
+   - **Patient Appointment System** - Desktop Java app for Appointment Management. ([View Repository](https://github.com/mertkiyar/Patient-Appointment-System))
+   - **ClassQRoom** - Android app for classroom attendance management. ([View Repository](https://github.com/mertkiyar/ClassQRoom))
+   - **ChatApp** - Terminal-based C application with client-server logic. ([View Repository](https://github.com/mertkiyar/ChatApp))
+   - **Cargo Company Database** - Database design for cargo company. ([View Repository](https://github.com/mertkiyar/Cargo-Company-DB))
+   - **e-Market** - A quick calculations with barcode scanner for shops. ([View Repository](https://github.com/mertkiyar/e-Market))
   
 ### Currently Working On
-I’m currently developing new projects using **C** and **PostgreSQL**:
-  - **ChatApp** - Terminal-based C application with client-server logic ([Link](https://github.com/mertkiyar/ChatApp))
-  - **Cargo Company Database** - Database design for cargo management.
+I’m currently developing the backend of **CQR** using **Java Spring Boot** and **PostgreSQL**:
+- **CQR Backend** – Backend service for the ClassQRoom mobile application ([View Repository](https://github.com/mertkiyar/CQR-Backend))
 
 ### Roadmap
-- ClassQRoom database upgrade(Firebase -> PostgreSQL)
-- Develop a Level-based Unity game
-- Build a Spring Boot REST API
+- Develop a level-based 2D mobile game using Unity, including physics-based mechanics and level progression systems.
+- Develop an indie IOS application using Swift.
   
 ### Languages/Environments I have experienced before:
 
