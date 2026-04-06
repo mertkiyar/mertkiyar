@@ -15,7 +15,8 @@ I have experience developing projects across different domains, mainly focusing 
   
 ### Currently Working On
 I’m currently developing the backend of **CQR** using **Java Spring Boot** and **PostgreSQL**:
-- **CQR Backend** – Backend service for the ClassQRoom mobile application ([View Repository](https://github.com/mertkiyar/CQR-Backend))
+- **CQR Backend** – Backend service for the ClassQRoom mobile application. ([View Repository](https://github.com/mertkiyar/CQR-Backend))
+- **Event Logger Service** - Backend API project focused on event tracking, filtering, and statistical analysis using **Go**’s standard library (net/http, encoding/json) with concurrency features.
 
 ### Roadmap
 - Develop a level-based 2D mobile game using Unity, including physics-based mechanics and level progression systems.
@@ -27,6 +28,7 @@ I’m currently developing the backend of **CQR** using **Java Spring Boot** and
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -41,8 +43,7 @@ I’m currently developing the backend of **CQR** using **Java Spring Boot** and
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Interested In
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
