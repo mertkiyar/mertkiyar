@@ -14,9 +14,9 @@ I have experience developing projects across different domains, mainly focusing 
    - **e-Market** - A quick calculations with barcode scanner for shops. ([View Repository](https://github.com/mertkiyar/e-Market))
   
 ### Currently Working On
-I’m currently developing the backend of **CQR** using **Java Spring Boot** and **PostgreSQL**:
+I’m currently developing the backend of **CQR** using **Java Spring Boot** & **PostgreSQL**, and building an Event Logger Service using Go:
 - **CQR Backend** – Backend service for the ClassQRoom mobile application. ([View Repository](https://github.com/mertkiyar/CQR-Backend))
-- **Event Logger Service** - Backend API project focused on event tracking, filtering, and statistical analysis using **Go**’s standard library (net/http, encoding/json) with concurrency features.
+- **Event Logger Service** - Backend API project focused on event tracking, filtering, and statistical analysis using **Go**’s standard library (net/http, encoding/json) with concurrency features. *(repository coming soon)*
 
 ### Roadmap
 - Develop a level-based 2D mobile game using Unity, including physics-based mechanics and level progression systems.
