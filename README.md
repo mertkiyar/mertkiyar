@@ -14,13 +14,17 @@ I have experience developing projects across different domains, mainly focusing 
    - **e-Market** - A quick calculations with barcode scanner for shops. ([View Repository](https://github.com/mertkiyar/e-Market))
   
 ### Currently Working On
-I’m currently developing the backend of **CQR** using **Java Spring Boot** & **PostgreSQL**, and building an Event Logger Service using Go:
+I’m currently working on backend systems, academic projects, and a game project, using Java Spring Boot, PostgreSQL, Go, and JavaScript:
 - **CQR Backend** – Backend service for the ClassQRoom mobile application. ([View Repository](https://github.com/mertkiyar/CQR-Backend))
 - **Event Logger Service** - Backend API project focused on event tracking, filtering, and statistical analysis using **Go**’s standard library (net/http, encoding/json) with concurrency features. *(repository coming soon)*
+- **SISA** - A Java Swing based student information system developed for a Visual Programming course. A short-term academic project focused on core functionalities.
+- **WBalls** - Walls & Balls is a level based JavaScript game where the player controls a ball within boundaries, avoiding holes in the walls. This project was originally planned beforehand and is now being developed as part of a Computer Graphics course, with the current version serving as an MVP and continuous feature expansions planned.
 
 ### Roadmap
-- Develop a level-based 2D mobile game using Unity, including physics-based mechanics and level progression systems.
 - Develop an indie IOS application using Swift.
+- Create a public API for global usages.
+- Enhance database design skills (advanced PostgreSQL, indexing, performance optimization).
+- Complete and publish a full-stack production-level project.
   
 ### Languages/Environments I have experienced before:
 
@@ -41,5 +45,5 @@ I’m currently developing the backend of **CQR** using **Java Spring Boot** & *
 ### Interested In
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
