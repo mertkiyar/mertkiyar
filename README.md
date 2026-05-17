@@ -12,13 +12,12 @@ I have experience developing projects across different domains, mainly focusing 
    - **ChatApp** - Terminal-based C application with client-server logic. ([View Repository](https://github.com/mertkiyar/ChatApp))
    - **Cargo Company Database** - Database design for cargo company. ([View Repository](https://github.com/mertkiyar/Cargo-Company-DB))
    - **e-Market** - A quick calculations with barcode scanner for shops. ([View Repository](https://github.com/mertkiyar/e-Market))
-  
+   - **WBalls** - Walls & Balls is a level based JavaScript game where the player controls a ball within boundaries, avoiding holes in the walls. ([View Repository](https://github.com/mertkiyar/WBalls))
+     
 ### Currently Working On
-I’m currently working on backend systems, academic projects, and a game project, using Java Spring Boot, PostgreSQL, Go, and JavaScript:
+I’m currently working on backend systems, using Java Spring Boot, PostgreSQL, Go:
 - **CQR Backend** – Backend service for the ClassQRoom mobile application. ([View Repository](https://github.com/mertkiyar/CQR-Backend))
-- **Event Logger Service** - Backend API project focused on event tracking, filtering, and statistical analysis using **Go**’s standard library (net/http, encoding/json) with concurrency features. *(repository coming soon)*
-- **SISA** - A Java Swing based student information system developed for a Visual Programming course. A short-term academic project focused on core functionalities.
-- **WBalls** - Walls & Balls is a level based JavaScript game where the player controls a ball within boundaries, avoiding holes in the walls. This project was originally planned beforehand and is now being developed as part of a Computer Graphics course, with the current version serving as an MVP and continuous feature expansions planned.
+- **Event Logger Service** - Backend API project focused on event tracking, filtering, and statistical analysis using **Go**’s standard library (net/http, encoding/json) with concurrency features.
 
 ### Roadmap
 - Develop an indie IOS application using Swift.
@@ -36,7 +35,6 @@ I’m currently working on backend systems, academic projects, and a game projec
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
