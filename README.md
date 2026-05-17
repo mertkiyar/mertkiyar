@@ -7,24 +7,27 @@ I enjoy building real-world projects and learning new technologies.
   
 ### Experience & Projects
 I have experience developing projects across different domains, mainly focusing on backend systems, database design, and mobile applications. My projects range from desktop and mobile applications to database-focused systems and network-based programs:
-   - **Patient Appointment System** - Desktop Java app for Appointment Management. ([View Repository](https://github.com/mertkiyar/Patient-Appointment-System))
    - **ClassQRoom** - Android app for classroom attendance management. ([View Repository](https://github.com/mertkiyar/ClassQRoom))
    - **ChatApp** - Terminal-based C application with client-server logic. ([View Repository](https://github.com/mertkiyar/ChatApp))
-   - **Cargo Company Database** - Database design for cargo company. ([View Repository](https://github.com/mertkiyar/Cargo-Company-DB))
    - **e-Market** - A quick calculations with barcode scanner for shops. ([View Repository](https://github.com/mertkiyar/e-Market))
    - **WBalls** - Walls & Balls is a level based JavaScript game where the player controls a ball within boundaries, avoiding holes in the walls. ([View Repository](https://github.com/mertkiyar/WBalls))
      
 ### Currently Working On
 I’m currently working on backend systems, using Java Spring Boot, PostgreSQL, Go:
-- **CQR Backend** – Backend service for the ClassQRoom mobile application. ([View Repository](https://github.com/mertkiyar/CQR-Backend))
-- **Event Logger Service** - Backend API project focused on event tracking, filtering, and statistical analysis using **Go**’s standard library (net/http, encoding/json) with concurrency features.
+  - **CQR Backend** – Backend service for the ClassQRoom mobile application. ([View Repository](https://github.com/mertkiyar/CQR-Backend))
+  - **Event Logger Service** - Backend API project focused on event tracking, filtering, and statistical analysis using **Go**’s standard library (net/http, encoding/json) with concurrency features.
 
 ### Roadmap
-- Develop an indie IOS application using Swift.
-- Create a public API for global usages.
-- Enhance database design skills (advanced PostgreSQL, indexing, performance optimization).
-- Complete and publish a full-stack production-level project.
-  
+  - Develop an indie IOS application using Swift.
+  - Create a public API for global usages.
+  - Enhance database design skills (advanced PostgreSQL, indexing, performance optimization).
+  - Complete and publish a full-stack production-level project.
+
+
+### Old Projects (no longer developed)
+   - **Patient Appointment System** - Desktop Java app for Appointment Management. ([View Repository](https://github.com/mertkiyar/Patient-Appointment-System))
+   - **Cargo Company Database** - Database design for cargo company. ([View Repository](https://github.com/mertkiyar/Cargo-Company-DB))
+
 ### Languages/Environments I have experienced before:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -37,7 +40,7 @@ I’m currently working on backend systems, using Java Spring Boot, PostgreSQL, 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Interested In
