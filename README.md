@@ -49,3 +49,6 @@ I’m currently working on backend systems using Go and an Unity game.
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+![Visitors](https://komarev.com/ghpvc/?username=mertkiyar&label=Visitors)
